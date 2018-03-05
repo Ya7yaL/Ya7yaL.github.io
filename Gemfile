@@ -31,3 +31,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # To show bs profile pic
 gem 'jekyll-avatar'
 
+# To create an index
+gem "jekyll-readme-index"
+
