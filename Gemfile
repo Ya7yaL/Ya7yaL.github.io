@@ -31,6 +31,10 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # To show bs profile pic
 gem 'jekyll-avatar'
 
-# To create an index
+# Create an index from readme
 gem "jekyll-readme-index"
 
+gem 'jekyll-sitemap'
+
+# Pull the page title from the first Markdown heading when none is specified
+gem 'jekyll-titles-from-headings'
