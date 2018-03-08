@@ -17,8 +17,12 @@ Nevertheless, I think it' useless. So I found away to disable it in Firefox 58
 	- find dom.push.connection.enabled;  double click on the field to turn it to false
 	- find dom.push.enabled; ouble click on the field to turn it to false
 
-
+![disable push][image-1]
 
 - Than, disable webnotifications (not sure if its necessary but I don't need it)
 	- dom.webnotifications.enabled;  double click on the field to turn it to false
 
+![disable notif][image-2]
+
+[image-1]:	https://imgur.com/a/Dgqyn "disable push"
+[image-2]:	https://imgur.com/a/rFy8I "disable notif"
