@@ -38,3 +38,6 @@ gem 'jekyll-sitemap'
 
 # Pull the page title from the first Markdown heading when none is specified
 gem 'jekyll-titles-from-headings'
+
+# Dark Theme
+gem "jekyll-theme-dml"
