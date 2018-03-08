@@ -1,6 +1,6 @@
 ---
 layout: draft
-title:  "Test"
+title:  "How to Disable Push From Firefox"
 date:   2018-03-05 11:09:55 +0100
 categories: Draft
 ---
