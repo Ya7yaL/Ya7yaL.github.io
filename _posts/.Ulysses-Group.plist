@@ -18,22 +18,26 @@
 			</dict>
 			<key>2018-03-05-test.markdown</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>542247408.51152098</real>
 				<key>lastModification</key>
-				<real>541950334.14955199</real>
+				<real>542247408.51152098</real>
 				<key>version</key>
 				<dict>
 					<key>affd977c607afe1954d4aac7fa273a5ff6b524f5095ae838602452febbc36bb0</key>
-					<integer>4</integer>
+					<integer>11</integer>
 				</dict>
 			</dict>
-			<key>2018-03-08-howto-disable-push-from-firefox.markdown</key>
+			<key>2018-03-08-howto-disable-push-from-firefox-58.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>542213538.05791605</real>
+				<real>542250468.06698895</real>
 				<key>version</key>
 				<dict>
 					<key>affd977c607afe1954d4aac7fa273a5ff6b524f5095ae838602452febbc36bb0</key>
-					<integer>8</integer>
+					<integer>14</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -41,7 +45,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2018-03-08-howto-disable-push-from-firefox.markdown</string>
+			<string>2018-03-08-howto-disable-push-from-firefox-58.md</string>
 		</array>
 		<array>
 			<string>2018-03-05-test.markdown</string>
@@ -57,7 +61,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>affd977c607afe1954d4aac7fa273a5ff6b524f5095ae838602452febbc36bb0</key>
-			<integer>9</integer>
+			<integer>15</integer>
 		</dict>
 	</dict>
 </dict>
