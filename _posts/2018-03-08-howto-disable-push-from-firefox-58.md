@@ -6,7 +6,7 @@ categories: Post
 ---
 Firefox has recently implemented push notifications. And I am upset because dont really see the point in term of usability. 
 
-It might had been useful a decade ago, when RSS aggregator and newsletter were cool. Or maybe there are "Notification Center" lobbyists trying to sell it to companies, I don't know.
+It might had been useful a decade ago, when RSS aggregators and newsletters were cool. Or maybe there are some"Notification Center" lobbyists trying to sell it to companies, I don't know.
 
 Nevertheless, I think it' useless. So I found away to disable it in Firefox 58
 
@@ -16,7 +16,7 @@ Nevertheless, I think it' useless. So I found away to disable it in Firefox 58
 
 3. New page with columns.The first column from the right tells you the state of each function (true = it's on, false, = turned off).
 
-4. Search for `push`. You will find several entries. ![Push options]({{ "/assets/u0jWW95 - Imgur.png" | absolute_url }})
+4. Search for `push`. You will find several entries. ![Push options]({{ "/assets/u0jWW95 - Imgur.png" | absolute\_url }})
 
 5. Find `dom.push.connection.enabled`;  double click on the field to turn it to `false`.
 
