@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ![Push options]({{ "/assets/minitel.jpeg" | absolute_url }})
+![Push options]({{ "/assets/u0jWW95 - Imgur.png" | absolute_url }})
 
 *"At most project meetings, everyone has a seat at the table except the poor victims who will have to operate the technology"* Jakob Nielsen
 
