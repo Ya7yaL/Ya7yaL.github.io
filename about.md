@@ -4,17 +4,11 @@ title: About
 permalink: /about/
 ---
 
-![Push options]({{ "/assets/BSOD.gif" | absolute_url }})
+![Push options]({{ "/assets/minitel.jpeg" | absolute_url }})
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+*"At most project meetings, everyone has a seat at the table except the poor victims who will have to operate the technology"* Jakob Nielsen
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
+ 
 You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll) /
 [jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

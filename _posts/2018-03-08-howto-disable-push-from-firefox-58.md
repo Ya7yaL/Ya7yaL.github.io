@@ -16,7 +16,7 @@ Nevertheless, I think it' useless. So I found away to disable it in Firefox 58
 
 3. New page with columns.The first column from the right tells you the state of each function (true = it's on, false, = turned off).
 
-4. Search for `push`. You will find several entries. ![Push options]({{ "/assets/u0jWW95 - Imgur.png" | absolute\_url }})
+4. Search for `push`. You will find several entries. ![Push options]({{ "/assets/u0jWW95 - Imgur.png" | absolute_url }})
 
 5. Find `dom.push.connection.enabled`;  double click on the field to turn it to `false`.
 
