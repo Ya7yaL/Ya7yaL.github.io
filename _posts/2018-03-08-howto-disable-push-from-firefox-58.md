@@ -4,7 +4,7 @@ title:  "How to Disable Push From Firefox Quantum"
 date:   2018-03-05 11:09:55 +0100
 categories: Post
 ---
-Firefox has recently implemented push notifications. And I am upset because dont really see the point in term of usability. 
+Firefox has recently implemented push notifications. And I am upset because dont really see the point in term of usability.!
 
 It might had been useful a decade ago, when RSS aggregators and newsletters were cool. Or maybe there are some"Notification Center" lobbyists trying to sell it to companies, I don't know.
 
