@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Test"
 date:   2018-03-01 12:30:55 +0100
 categories: test
