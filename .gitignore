@@ -1,8 +1,5 @@
-
-.DS_Store
-_site/.DS_Store
-_site/assets/.DS_Store
-_site/jekyll/.DS_Store
-_site/jekyll/update/2018/03/.DS_Store
-_site/jekyll/update/2018/.DS_Store
-_site/.DS_Store
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
