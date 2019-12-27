@@ -57,7 +57,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "assets/ava.jpeg"
+  avatar           : "assets/ava.jpg"
   bio              : "..."
   location         : "Paris, France"
   email            : "yann.laurent@pm.me"
