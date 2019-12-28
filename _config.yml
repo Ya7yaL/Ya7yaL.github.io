@@ -21,7 +21,7 @@ email: "yann.laurent@pm.me"
 description: &description "Blog"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Ya7yaL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# repository: "albilaga/albilaga.github.io"
+repository: "Ya7yaL/Ya7yaL.github.io"
 twitter_username: "..."
 github_username:  "Ya7ya"
 logo: "assets/logo_a.png"
@@ -38,7 +38,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/albilaga"
+    - "https://twitter.com"
 
 # Comments
 comments:
