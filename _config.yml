@@ -20,7 +20,7 @@ name: &name "Y L"
 email: "yann.laurent@pm.me"
 description: &description "Blog"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://albilaga.id" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Ya7yaL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: "albilaga/albilaga.github.io"
 twitter_username: "..."
 github_username:  "Ya7ya"
