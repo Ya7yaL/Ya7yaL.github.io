@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "fr-FR"
-title: "SES"
+title: "Blog de Y LAURENT"
 title_separator: "-"
 name: &name "Y L"
 email: "yann.laurent@pm.me"
-description: &description "Blog"
+description: &description "Blog sur les sciences sociales vues par un professeur de lycée et un anthropologue"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Ya7yaL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "Ya7yaL/Ya7yaL.github.io"
