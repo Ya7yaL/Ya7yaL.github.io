@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 locale: "fr-FR"
 title: "Blog de Y LAURENT"
-subtitle: "Blog sur les sciences sociales"
 title_separator: "-"
+subtitle                 : "Enseignement, etc."
 name: &name "Y L"
 email: "yann.laurent@pm.me"
 description: &description "Blog sur les sciences sociales vues par un professeur de lycée/anthropologue"
@@ -168,7 +168,7 @@ defaults:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -176,3 +176,4 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+  - .sass-cache

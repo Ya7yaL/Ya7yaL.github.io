@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.15.1 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose
   Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -13,6 +13,8 @@
 <meta name="description" content="Blog sur les sciences sociales vues par un professeur de lycée/anthropologue">
 
 
+  <meta name="author" content="Y L">
+
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="fr_FR">
@@ -20,6 +22,8 @@
 <meta property="og:title" content="Blog de Y LAURENT">
 <meta property="og:url" content="http://localhost:4000/">
 
+
+  <meta property="og:description" content="Blog sur les sciences sociales vues par un professeur de lycée/anthropologue">
 
 
 
@@ -53,28 +57,17 @@
 
 
 
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "url": "http://localhost:4000",
-      "logo": "http://localhost:4000/assets/og_image.jpg"
-    }
-  </script>
-
-
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
       "@type": "Person",
       "name": "Y L",
-      "url": "http://localhost:4000",
+      "url": "http://localhost:4000/",
       "sameAs": ["https://twitter.com"]
-    }
-  </script>
-
+    
+  }
+</script>
 
 
 
@@ -96,7 +89,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<!--[if IE ]>
+<!--[if IE]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -122,6 +115,14 @@
   </head>
 
   <body class="layout--home">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -133,8 +134,13 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-logo" href="/"><img src="/assets/logo_a.png"></a>
-        <a class="site-title" href="/">Blog de Y LAURENT</a>
+        
+          <a class="site-logo" href="/"><img src="/assets/logo_a.png" alt=""></a>
+        
+        <a class="site-title" href="/">
+          Blog de Y LAURENT
+          <span class="site-subtitle">Enseignements, etc.</span>
+        </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/about/" >About</a>
             </li></ul>
@@ -185,9 +191,10 @@
       <h3 class="author__name" itemprop="name">Y L</h3>
     
     
-      <p class="author__bio" itemprop="description">
-        ...
-      </p>
+      <div class="author__bio" itemprop="description">
+        <p>…</p>
+
+      </div>
     
   </div>
 
@@ -225,8 +232,6 @@
             <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
           </a>
         </li>
-      
-
       
 
       
@@ -317,6 +322,7 @@
 
 
   moins de 1 minute(s) de lecture
+
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...</p>
@@ -334,13 +340,18 @@
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="text" id="search" class="search-input" tabindex="-1" placeholder="Entrez votre recherche..." />
-    <div id="results" class="results"></div></div>
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Entrez votre recherche..." />
+  </form>
+  <div id="results" class="results"></div></div>
 
       </div>
     
 
-    <div class="page__footer">
+    <div id="footer" class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
 
@@ -364,7 +375,7 @@
 
     
   <script src="/assets/js/main.min.js"></script>
-  <script defer src="https://use.fontawesome.com/releases/v5.6.0/js/all.js" integrity="sha384-z9ZOvGHHo21RqN5De4rfJMoAxYpaVoiYhuJXPyVmSs8yn20IE3PmBM534CffwSJI" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
 
 
 
@@ -372,6 +383,8 @@
 <script src="/assets/js/lunr/lunr.min.js"></script>
 <script src="/assets/js/lunr/lunr-store.js"></script>
 <script src="/assets/js/lunr/lunr-en.js"></script>
+
+
 
 
 
