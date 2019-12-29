@@ -16,10 +16,10 @@
 locale: "fr-FR"
 title: "Blog de Y LAURENT"
 title_separator: "-"
-subtitle                 : "site tagline that appears below site title in masthead"
+subtitle                 : "Cours, etc."
 name: &name "Y L"
 email: "yann.laurent@pm.me"
-description: &description "Cours, etc."
+description: &description "Blog sur les sciences sociales vues par un professeur de lycée/anthropologue"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Ya7yaL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "Ya7yaL/Ya7yaL.github.io"
