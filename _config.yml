@@ -33,7 +33,7 @@ teaser: /assets/og_image.jpg
 
 # Social Sharing
 twitter:
-  username: &twitter "..."
+  username: &twitter "@ylcorniquet"
 og_image: "assets/og_image.jpg"
 social:
   type                   : # Person or Organization (defaults to Person)
@@ -65,7 +65,7 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ylcorniquet"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Ya7yaL"
@@ -163,12 +163,18 @@ defaults:
       type: home
     values:
       author_profile: true
-
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -176,3 +182,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# pages
+
+include: ["_pages"]
