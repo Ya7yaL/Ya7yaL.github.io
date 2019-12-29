@@ -19,7 +19,7 @@ title_separator: "-"
 subtitle                 : "site tagline that appears below site title in masthead"
 name: &name "Y L"
 email: "yann.laurent@pm.me"
-description: &description "Blog sur les sciences sociales vues par un professeur de lycée/anthropologue"
+description: &description "Cours, etc."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Ya7yaL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "Ya7yaL/Ya7yaL.github.io"
