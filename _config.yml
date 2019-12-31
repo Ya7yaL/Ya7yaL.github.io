@@ -17,13 +17,13 @@ locale: "fr-FR"
 title: "Blog de Y LAURENT"
 title_separator: "-"
 subtitle                 : "Cours, etc."
-name: &name "Y L"
+name: &name "Y. LAURENT"
 email: "yann.laurent@pm.me"
-description: &description "Blog sur les sciences sociales vues par un professeur de lycée/anthropologue"
+description: &description "Blog sur les sciences sociales vues par un professeur de sciences économiques et sociales (anthropologue)"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Ya7yaL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "Ya7yaL/Ya7yaL.github.io"
-twitter_username: "..."
+twitter_username: "Blog sur les sciences sociales d'un professeur sciences éco anthropologue"
 github_username:  "Ya7ya"
 logo: "assets/logo_a.png"
 breadcrumbs: true
@@ -59,7 +59,7 @@ analytics:
 author:
   name             : *name
   avatar           : "assets/ava.jpg"
-  bio              : "..."
+  bio              : "Les sciences sociales vues par un professeur de SES (anthropologue)"
   location         : "Paris, France"
   email            : "yann.laurent@pm.me"
   links:
