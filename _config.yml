@@ -59,7 +59,7 @@ analytics:
 author:
   name             : *name
   avatar           : "assets/ava.jpg"
-  bio              : "Les sciences sociales vues par un (anthropologue) professeur de SES"
+  bio              : "Les sciences économiques et sociales enseignées par un anthropologue"
   location         : "Paris, France"
   email            : "yann.laurent@pm.me"
   links:
