@@ -59,7 +59,7 @@ analytics:
 author:
   name             : *name
   avatar           : "assets/ava.jpg"
-  bio              : "Les sciences sociales vues par un professeur de SES (anthropologue)"
+  bio              : "Les sciences sociales vues par un (anthropologue) professeur de SES"
   location         : "Paris, France"
   email            : "yann.laurent@pm.me"
   links:
@@ -126,8 +126,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
+  - jekyll/footnotes
 remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin: "dark"
+
+# configure kramdown
+kramdown:
+  parse_block_html: true
 
 category_archive:
   type: liquid
