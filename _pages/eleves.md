@@ -30,4 +30,4 @@ permalink: /eleves/
 
 ![alt text](https://ya7yal.github.io/assets/livres.jpg)
 
-[^1]: Le programme se science économique et social a été réformé en 2019-2020. Les programmes ainsi que les "filières" classiques sont donc désormais obsolètes
+[^1]: Le programme de sciences économiques et sociales a été réformé en 2019-2020. Les programmes ainsi que les "filières" classiques sont donc désormais obsolètes
