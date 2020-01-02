@@ -5,7 +5,7 @@ main:
   - title: "Blog"
     url: /
   - title: "Accès élèves"
-    url: /eleves.html
+    url: /eleves/
   - title: "À propos"
     url: /about/
   # - title: "Sample Collections"
