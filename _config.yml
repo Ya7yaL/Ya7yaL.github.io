@@ -59,19 +59,25 @@ analytics:
 author:
   name             : *name
   avatar           : "assets/ava.jpg"
-  bio              : "Les sciences économiques et sociales enseignées par un anthropologue"
+  bio              : "Blog d'un prof de SES. People keep asking how anthropology is different from sociology, and everybody gets nervous (C. Gertz)."
   location         : "Paris, France"
   email            : "yann.laurent@pm.me"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ylcorniquet"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Ya7yaL"
+      #label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/Ya7yaL"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/laurenty"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://ya7ya.keybase.pub/"
+    - label: "Mastodon"
+      icon: "fab fa-mastodon"
+      url: "https://mastodon.social/@Ya7ya_"
 # Site Footer
 # footer:
 #   links:
