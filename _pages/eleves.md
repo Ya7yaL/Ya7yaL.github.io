@@ -8,7 +8,7 @@ permalink: /eleves/
 
 ### Synthèses de cours, fiches méthodes et chiffres
 
-![alt text](https://ya7yal.github.io/assets/class.jpg)
+![classe](https://ya7yal.github.io/assets/class.jpg)
 
 |     | ES | STMG | Programme 2020 |
 | --------- | -----| ------ | -------------- |
@@ -20,7 +20,7 @@ permalink: /eleves/
 
 ### Sur internet
 
-![alt text](https://ya7yal.github.io/assets/atari.jpg)
+![internet](https://ya7yal.github.io/assets/atari.jpg)
 
 
 
@@ -28,6 +28,6 @@ permalink: /eleves/
 
 ### Revues et livres
 
-![alt text](https://ya7yal.github.io/assets/livres.jpg)
+![bibliothèque](https://ya7yal.github.io/assets/livres.jpg)
 
 [^1]: Le programme de sciences économiques et sociales a été réformé en 2019-2020. Les programmes ainsi que les "filières" classiques sont donc désormais obsolètes
