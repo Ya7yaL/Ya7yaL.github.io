@@ -15,7 +15,9 @@ permalink: /ressources/
 
 ![livres](https://ya7yal.github.io/assets/livres.jpg)
 
-* A venir, [exemple.com](https://www.example.com)
+* Les classiques de sciences sociales,
+>"La mission de la bibliothèque est de donner accès gratuitement aux œuvres en sciences sociales et humaines de langue française."[Site](http://classiques.uqac.ca)
+
 
 ## Regarder
 

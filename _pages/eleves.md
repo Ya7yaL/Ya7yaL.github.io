@@ -16,9 +16,12 @@ permalink: /eleves/
 | Première  |  Ø[^1] |  Ø[^1]   |     À venir …       |
 | Seconde   |  Ø[^1] |  Ø[^1]   |     À venir …       |
 
+### S'entraîner
+
+
 ---
 
-### Consulter
+### Bibliothèque
 
 ![internet](https://ya7yal.github.io/assets/livres.jpg)
 
