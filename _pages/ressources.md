@@ -3,27 +3,27 @@ layout: single
 title: Cultiver sa curiosité
 permalink: /ressources/
 ---
-![caméra](https://ya7yal.github.io/assets/atari.jpg)
 
 ## Écouter
+
+![liens](https://ya7yal.github.io/assets/atari.jpg)
 
 ### Podcast
 
 * A venir, [exemple.com](https://www.example.com)
 
--------
-![caméra](https://ya7yal.github.io/assets/livres.jpg)
-
 ## Lire
+
+![livres](https://ya7yal.github.io/assets/livres.jpg)
+
 
 ### Revues
 
 * A venir, [exemple.com](https://www.example.com)
 
-------
-![caméra](https://ya7yal.github.io/assets/video.jpg)
-
 ## Regarder
+
+![caméra](https://ya7yal.github.io/assets/video.jpg)
 
 ### Documentaires
 
