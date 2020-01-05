@@ -8,16 +8,13 @@ permalink: /ressources/
 
 ![liens](https://ya7yal.github.io/assets/atari.jpg)
 
-### Podcast
-
-* A venir, [exemple.com](https://www.example.com)
+* *Entendez-vous l'éco ?* Par Maylis Besserie
+>"Pour la première fois, une émission quotidienne des savoirs consacrée à l’économie et au social."" [S'abonner au podcast](https://podcasts.apple.com/fr/podcast/entendez-vous-léco/id300710113)
 
 ## Lire
 
 ![livres](https://ya7yal.github.io/assets/livres.jpg)
 
-
-### Revues
 
 * A venir, [exemple.com](https://www.example.com)
 
