@@ -18,16 +18,21 @@ permalink: /eleves/
 
 ---
 
-### Sur internet
+### Consulter
 
-![internet](https://ya7yal.github.io/assets/atari.jpg)
+![internet](https://ya7yal.github.io/assets/livres.jpg)
 
 
+#### Économie
+
+* A venir, [exemple.com](https://www.example.com)
+
+#### Sociologie
+
+* A venir, [exemple.com](https://www.example.com)
+
+#### Sciences politiques
+
+* A venir, [exemple.com](https://www.example.com)
 
 ---
-
-### Revues et livres
-
-![bibliothèque](https://ya7yal.github.io/assets/livres.jpg)
-
-[^1]: Le programme de sciences économiques et sociales a été réformé en 2019-2020. Les programmes ainsi que les "filières" classiques sont donc désormais obsolètes
