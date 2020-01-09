@@ -19,11 +19,11 @@ title_separator: "-"
 subtitle                 : "Cours, etc."
 name: &name "Y. LAURENT"
 email: "yann.laurent@pm.me"
-description: &description "Blog sur les sciences sociales vues par un professeur de sciences économiques et sociales (anthropologue)"
+description: &description "Blog d'un prof de SES. “It is better to be roughly right than precisely wrong.” ― John Maynard Keynes"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Ya7yaL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "Ya7yaL/Ya7yaL.github.io"
-twitter_username: "Blog sur les sciences sociales d'un professeur sciences éco anthropologue"
+twitter_username: ???
 github_username:  "Ya7ya"
 logo: "assets/logo_a.png"
 breadcrumbs: true
