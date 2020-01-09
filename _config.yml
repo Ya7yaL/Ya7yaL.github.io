@@ -59,7 +59,7 @@ analytics:
 author:
   name             : *name
   avatar           : "assets/ava.jpg"
-  bio              : "Blog d'un prof de SES. People keep asking how anthropology is different from sociology, and everybody gets nervous (C. Gertz)."
+  bio              : "Blog d'un prof de SES. “It is better to be roughly right than precisely wrong.” ― John Maynard Keynes"
   location         : "Paris, France"
   email            : "yann.laurent@pm.me"
   links:

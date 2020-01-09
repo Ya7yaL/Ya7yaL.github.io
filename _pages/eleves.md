@@ -12,7 +12,7 @@ permalink: /eleves/
 
 |     | ES | STMG | Programme 2020 |
 | --------- | -----| ------ | -------------- |
-| Terminale | [Google drive](https://www.example.com) | [Google drive](https://www.example.com)   |   À venir ...          |
+| Terminale | [Google drive](https://drive.google.com/open?id=1yC0-PlApXn02ZWpmxIJ9ZVuQWr9lUcw-) | [Google drive](https://www.example.com)   |   À venir ...          |
 | Première  |  Ø[^1] |  Ø[^1]   |     À venir …       |
 | Seconde   |  Ø[^1] |  Ø[^1]   |     À venir …       |
 
@@ -26,16 +26,14 @@ permalink: /eleves/
 ![internet](https://ya7yal.github.io/assets/livres.jpg)
 
 
-#### Économie
+#### SES
 
-* A venir, [exemple.com](https://www.example.com)
-
-#### Sociologie
-
-* A venir, [exemple.com](https://www.example.com)
+* Le manuel Nathan 2018, [Google drive](https://drive.google.com/open?id=1Ltk9BLmr4-nTN1FI16sPpODmcMwXF1RD)
 
 #### Sciences politiques
 
-* A venir, [exemple.com](https://www.example.com)
+* Le manuel (à venir), [exemple.com](https://www.example.com)
 
----
+#### Divers
+
+* D'autres livres, [exemple.com](https://www.example.com
