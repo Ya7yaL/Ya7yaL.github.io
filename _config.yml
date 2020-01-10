@@ -49,10 +49,9 @@ comments:
     issue_term: "pathname"
 
 # Analytics
-analytics:
-  provider: "google-universal"
-  google:
-    tracking_id: "UA-155996088-1"
+jekyll_analytics:
+  GoogleAnalytics:
+    id: "UA-155996088-1"
     anonymize_ip: true # default
 
 # Site Author
@@ -132,6 +131,7 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll/footnotes
+  - jekyll-analytics
 remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin: "dark"
 
