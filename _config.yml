@@ -52,8 +52,8 @@ comments:
 analytics:
   provider: "google-universal"
   google:
-    tracking_id: "UA-134073809-1"
-    anonymize_ip: false # default
+    tracking_id: "UA-155996088-1"
+    anonymize_ip: true # default
 
 # Site Author
 author:
