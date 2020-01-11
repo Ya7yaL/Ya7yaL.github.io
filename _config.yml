@@ -51,7 +51,7 @@ comments:
 # Analytics
 jekyll_analytics:
   GoogleAnalytics:
-    id: "UA-155996088-1"
+    id: UA-155996088-1
     anonymize_ip: true # default
 
 # Site Author
