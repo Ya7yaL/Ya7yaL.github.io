@@ -9,14 +9,24 @@ permalink: /ressources/
 ![liens](https://ya7yal.github.io/assets/atari.jpg)
 
 * *Entendez-vous l'éco ?* Par Maylis Besserie
->"Pour la première fois, une émission quotidienne des savoirs consacrée à l’économie et au social." [S'abonner au podcast](https://podcasts.apple.com/fr/podcast/entendez-vous-léco/id300710113)
+>"Pour la première fois, une émission quotidienne des savoirs consacrée à l’économie et au social."
+[S'abonner au podcast](https://podcasts.apple.com/fr/podcast/entendez-vous-léco/id300710113)
+
+* *Comprendre le monde* Par Pascal Boniface
+>"Pascal Boniface est Directeur de l’Institut de relations internationales et stratégiques (IRIS). L'émission "Comprendre le monde" (...) décrypte chaque semaine, à travers un entretien ou un débat, un thème géopolitique. Animée par un souci de pédagogie, elle permet de resituer l'actualité immédiate, en toute liberté, dans une perspective globale et de long terme."
+[S'abonner au podcast](https://podcasts.apple.com/nz/podcast/comprendre-le-monde/id1281935791)
 
 ## Lire
 
 ![livres](https://ya7yal.github.io/assets/livres.jpg)
 
-* Les classiques de sciences sociales,
->"La mission de la bibliothèque est de donner accès gratuitement aux œuvres en sciences sociales et humaines de langue française."[Site](http://classiques.uqac.ca)
+* Les classiques de sciences sociales
+>"La mission de la bibliothèque est de donner accès gratuitement aux œuvres en sciences sociales et humaines de langue française."
+[Site](http://classiques.uqac.ca)
+
+* Le Réseau du savoir électoral ACE
+>"Le Réseau du savoir électoral ACE est le plus grand répertoire et la plus grande communauté en ligne du monde qui s’intéressent aux connaissances électorales." On y retrouve une encyclopédie, des données quantitatives,des documents éléctoraux, etc.
+[Site](https://aceproject.org)
 
 
 ## Regarder
