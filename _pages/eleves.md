@@ -16,8 +16,11 @@ permalink: /eleves/
 | Première  |  Ø[^1] |  Ø[^1]   |     À venir …       |
 | Seconde   |  Ø[^1] |  Ø[^1]   |     À venir …       |
 
-### S'entraîner
+---
 
+### S'entraîner au bac
+
+A venir ...
 
 ---
 
@@ -28,12 +31,8 @@ permalink: /eleves/
 
 #### SES
 
-* Le manuel Nathan 2018, [Google drive](https://drive.google.com/open?id=1Ltk9BLmr4-nTN1FI16sPpODmcMwXF1RD)
+* Le manuel Nathan 2018, [Google drive/nathan 2018](https://drive.google.com/open?id=1Ltk9BLmr4-nTN1FI16sPpODmcMwXF1RD)
 
-#### Sciences politiques
+#### Lectures complémentaires
 
-* Le manuel (à venir), [exemple.com](https://www.example.com)
-
-#### Divers
-
-* D'autres livres, [exemple.com](https://www.example.com
+* D'autres livres, articles, etc. [Google drive/livres etc](https://drive.google.com/open?id=19qI0H3FYEad9YU1EQ_cxvNlsxMrjaJKJ)
