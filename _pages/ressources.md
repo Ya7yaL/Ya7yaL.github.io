@@ -20,14 +20,17 @@ permalink: /ressources/
 
 ![livres](https://ya7yal.github.io/assets/livres.jpg)
 
+* La vie des idées
+>"Sa vocation est de proposer une information de qualité sur la vie intellectuelle et l’actualité éditoriale, tant française qu’internationale, ainsi que des contributions sur les grands enjeux de notre temps, sous la forme d’essais approfondis, d’interviews et de discussions publiques."
+[Site](https://laviedesidees.fr)
+
+* Le Réseau du savoir électoral ACE
+>"Le Réseau du savoir électoral ACE est le plus grand répertoire et la plus grande communauté en ligne du monde qui s’intéressent aux connaissances électorales."
+[Site](https://aceproject.org)
+
 * Les classiques de sciences sociales
 >"La mission de la bibliothèque est de donner accès gratuitement aux œuvres en sciences sociales et humaines de langue française."
 [Site](http://classiques.uqac.ca)
-
-* Le Réseau du savoir électoral ACE
->"Le Réseau du savoir électoral ACE est le plus grand répertoire et la plus grande communauté en ligne du monde qui s’intéressent aux connaissances électorales." On y retrouve une encyclopédie, des données quantitatives,des documents éléctoraux, etc.
-[Site](https://aceproject.org)
-
 
 ## Regarder
 
