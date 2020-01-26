@@ -132,7 +132,6 @@ plugins:
   - jemoji
   - jekyll/footnotes
   - jekyll-analytics
-  - jekyll-mathjax-csp
 
 exclude:
   - node_modules
