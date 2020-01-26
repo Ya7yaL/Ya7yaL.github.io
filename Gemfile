@@ -20,7 +20,6 @@ gem "jekyll-polyglot", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-footnotes", group: :jekyll_plugins
 gem "jekyll-analytics", group: :jekyll_plugins
-gem "jekyll-mathjax-csp", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

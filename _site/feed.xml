@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-26T23:17:01+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog de Y LAURENT</title><subtitle>Blog d'un prof de SES. “It is better to be roughly right than precisely wrong.” ― John Maynard Keynes</subtitle><author><name>Y. LAURENT</name><email>yann.laurent@pm.me</email></author><entry><title type="html">Que contient le panier de biens de l’INSEE?</title><link href="http://localhost:4000/notions/ipc/" rel="alternate" type="text/html" title="Que contient le panier de biens de l'INSEE?" /><published>2020-01-25T13:35:00+01:00</published><updated>2020-01-25T13:35:00+01:00</updated><id>http://localhost:4000/notions/ipc</id><content type="html" xml:base="http://localhost:4000/notions/ipc/">&lt;p&gt;L’IPC (Indice des prix à la consommation)&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; soulève beaucoup de questions en classe, en particulier le fameux &lt;em&gt;panier de biens&lt;/em&gt; qui permet de le calculer : comment est-il composé ? Comment choisit-on les biens qui le constitue ? Questions d’autant plus légitimes que l’on explique aux élèves que le taux d’inflation&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; est centrale dans le pilotage économique de la BCE&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, et pour la mise en place des politiques macroéconomiques.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-27T00:51:24+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog de Y LAURENT</title><subtitle>Blog d'un prof de SES. “It is better to be roughly right than precisely wrong.” ― John Maynard Keynes</subtitle><author><name>Y. LAURENT</name><email>yann.laurent@pm.me</email></author><entry><title type="html">Que contient le panier de biens de l’INSEE?</title><link href="http://localhost:4000/notions/ipc/" rel="alternate" type="text/html" title="Que contient le panier de biens de l'INSEE?" /><published>2020-01-25T13:35:00+01:00</published><updated>2020-01-25T13:35:00+01:00</updated><id>http://localhost:4000/notions/ipc</id><content type="html" xml:base="http://localhost:4000/notions/ipc/">&lt;p&gt;L’IPC (Indice des prix à la consommation)&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; soulève beaucoup de questions en classe, en particulier le fameux &lt;em&gt;panier de biens&lt;/em&gt; qui permet de le calculer : comment est-il composé ? Comment choisit-on les biens qui le constitue ? Questions d’autant plus légitimes que l’on explique aux élèves que le taux d’inflation&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; est centrale dans le pilotage économique de la BCE&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, et pour la mise en place des politiques macroéconomiques.&lt;/p&gt;
 
 &lt;h2 id=&quot;comment-est-composé-le-panier-en-france-&quot;&gt;Comment est composé le panier en France ?&lt;/h2&gt;
 
@@ -18,7 +18,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Une faible part des biens et services ne sont pas observés par l’indice : il s’agit principalement des services hospitaliers , de l’assurance vie et des jeux de hasard. Le taux de couverture de l’IPC est de plus 90%.&lt;/p&gt;
+&lt;p&gt;Une faible part des biens et services ne sont pas observés par l’indice : il s’agit principalement des services hospitaliers , de l’assurance vie et des jeux de hasard. Le taux de couverture de l’IPC est, d’après l’INSEE en 1998, de plus 90%.&lt;/p&gt;
 
 &lt;h2 id=&quot;que-fait-on-de-ce-panier-&quot;&gt;Que fait-on de ce panier ?&lt;/h2&gt;
 
@@ -26,18 +26,25 @@
 
 &lt;p&gt;Ces séries subissent des pondérations qui doivent rendre compte de la part des dépenses qu’elles représentent dans l’IPC. Elles sont issues pour la plupart des évaluations annuelles des dépenses de consommation des ménages réalisées par la &lt;strong&gt;Comptabilité Nationale&lt;/strong&gt;. Des traitements spécifiques sont aussi effectués pour tenir compte des saisons, des transformations des produits, des périodes de promotions, etc.&lt;/p&gt;
 
-&lt;h2 id=&quot;sources-et-notes&quot;&gt;Sources et notes&lt;/h2&gt;
+&lt;h2 id=&quot;que-se-passe-t-il-lorsque-si-panier-change-&quot;&gt;Que se passe-t-il lorsque si panier change ?&lt;/h2&gt;
 
-&lt;p&gt;Idéc. 96, base 100 en 90 = Idéc. 96, base 100 en déc. 95 x Idéc. 95, base 100 en 1990&lt;/p&gt;
+&lt;p&gt;L’INSEE a modifié à plusieurs reprises l’année de référence de l’IPC, l’année de référence actuelle (début 2020) étant 2015. La raison de ce changement est par exemple d’inclure de nouveaux produits, ou des transformations dans la consommation, etc.&lt;/p&gt;
+
+&lt;p&gt;Pour rappel, l’INSEE s’est abord basé sur &lt;em&gt;l’Indice des 34 articles&lt;/em&gt; créé en 1934 par la Statistique Générale de la France, et a continué à étendre le contenu du panier et les critères de collecte des données :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Capture d’écran 2020-01-27 à 00.20.13.png&quot; alt=&quot;six générations d'IPC en 1998&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sources-et-notes&quot;&gt;Sources et notes&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;Conseil national de l’information statistique&lt;/em&gt; (CNIS), “INDICE DES PRIX À LA CONSOMMATION (IPC) - 2020M002EC”, https://www.cnis.fr/enquetes/indice-des-prix-a-la-consommation-ipc-2020m002ec/, consulté le 25/01/2020&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;L’Institut national de la statistique et des études économiques&lt;/em&gt;, “Indice des prix à la consommation IPC”, https://www.insee.fr/fr/metadonnees/source/indicateur/p1653/description, consulté de 25/01/2020&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;L’Institut national de la statistique et des études économique&lt;/em&gt;, “Pour comprendre l’indice des prix - Édition 1998”, https://www.insee.fr/fr/metadonnees/source/fichier/Indice_des_prix.pdf, consulté le 26/01/2020.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;L’IPC est un indice de Laspeyres chaîné annuellement. Ex : , Isept. 97, base 100 en 90 = Isept. 97, base 100 en déc. 96 x Idéc. 96, base 100 en 1990, avec : &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;L’IPC est un indice de Laspeyres chaîné annuellement, avec pour base intermédiaire le mois de décembre de l’année précéden, ex. :  $I_{sept. 97} , \text{base 100 en 90} = I_{sept. 97} , \text{base 100 en déc. 96} \times I_{dec. 96}, \text{base 100 en 1990}$, etc. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
       &lt;p&gt;Souvent désigné par πc (&lt;em&gt;core inflation&lt;/em&gt;) c’est à dire inflation sous-jacente. C’est l’inflation de long terme (inflation globale des prix hors alimentation et énergie, Robert J. Gordon, 1975 et Otto Eckstein, 1981) &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -49,42 +56,7 @@
       &lt;p&gt;Les indices des prix à la consommation harmonisés (IPCH) sont les chiffres de l’inflation harmonisés demandés par l’article 121 du traité d’Amsterdam (109 J du traité sur l’Union européenne). Ils sont conçus pour permettre la comparaison internationale de l’évolution des prix à la consommation. Celui retenu par la BCE est l’IPCUM. : Article 140, paragraphe 1, premier tiret, du &lt;strong&gt;traité sur le fonctionnement de l’Union européenne&lt;/strong&gt; sur La réalisation d’un degré élevé de stabilité des prix, Article premier du &lt;strong&gt;Protocole (n° 13) sur les critères de convergence (2012)&lt;/strong&gt; visé à l’article 140, paragraphe 1, du traité, sur les critères de &lt;strong&gt;stabilité des prix&lt;/strong&gt; visé à l’article 140 sur le fonctionnement de l’Union européenne. Sources : https://www.ecb.europa.eu/ecb/orga/escb/html/convergence-criteria.fr.html, et “Indices des prix à la consommation harmonisés (IPCH) (Prix)” https://www.tarifdouanier.eu/info/abreviations/5682 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Y. LAURENT</name><email>yann.laurent@pm.me</email></author><summary type="html">L’IPC (Indice des prix à la consommation)1 soulève beaucoup de questions en classe, en particulier le fameux panier de biens qui permet de le calculer : comment est-il composé ? Comment choisit-on les biens qui le constitue ? Questions d’autant plus légitimes que l’on explique aux élèves que le taux d’inflation2 est centrale dans le pilotage économique de la BCE3, et pour la mise en place des politiques macroéconomiques. L’IPC est un indice de Laspeyres chaîné annuellement. Ex : , Isept. 97, base 100 en 90 = Isept. 97, base 100 en déc. 96 x Idéc. 96, base 100 en 1990, avec : &amp;#8617; Souvent désigné par πc (core inflation) c’est à dire inflation sous-jacente. C’est l’inflation de long terme (inflation globale des prix hors alimentation et énergie, Robert J. Gordon, 1975 et Otto Eckstein, 1981) &amp;#8617; Voir les détails ici https://www.cnis.fr/enquetes/indice-des-prix-a-la-consommation-ipc-2020m002ec/ &amp;#8617;</summary></entry><entry><title type="html">Pourquoi la base de l’indice IPC change régulièrement</title><link href="http://localhost:4000/notions/ipc2/" rel="alternate" type="text/html" title="Pourquoi la base de l'indice IPC change régulièrement" /><published>2020-01-25T13:35:00+01:00</published><updated>2020-01-25T13:35:00+01:00</updated><id>http://localhost:4000/notions/ipc2</id><content type="html" xml:base="http://localhost:4000/notions/ipc2/">&lt;ul&gt;
-  &lt;li&gt;Comparer des variation d’indices ne revient pas à comparer des prix, mais des variations de prix :&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Lorsqu’on dit que sur la base 100 en 1990, l’indice de la viande de mouton est de 106,8 en septembre 1996 et celui du pain 113,7 cela ne veut naturellement pas dire que le mouton est moins cher que le pain. Cela veut dire qu’entre 1990 et septembre 1996 le prix de la viande de mouton a nettement moins augmenté que le prix du pain : + 6,8 % au lieu de + 13,7 %.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Cette remarque peut paraître superflue. Certains raisonnements fallacieux viennent pourtant de ce qu’on ne distingue pas suffisamment niveau et variation, reprochant à la variation de ne pas refléter une évidence perçue sur le niveau.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;La variation des prix n’est pas la même chose que le niveau de vie :&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Depuis longtemps en France on considère pourtant que la mesure de l’évolution des prix et la mesure du « coût de la vie » sont deux choses différentes : la première, objective, s’inscrit dans le cadre d’hypothèses clairement explicitées ; la deuxième est plus subjective.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;C’est qu’en fait les indices français actuels sont issus d’une longue tradition où le terme indice du « coût de la vie » a un sens différent de celui qu’il a aux États-Unis. Dans ce pays, ce terme renvoie à la théorie économique du consommateur (cf. l’indice à utilité constante) (…). En France l’indice du coût de la vie renvoie à la notion de « budget type minimum».&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;La consommation «minimum» est en effet difficile à déterminer, et, du reste, cette détermination est affaire de politique et non de mesure statistique.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\pi_3(S^2) \cong \mathbb{Z}&lt;/script&gt;
-
-&lt;h2 id=&quot;sources-et-notes&quot;&gt;Sources et notes&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Conseil national de l’information statistique&lt;/em&gt; (CNIS), “INDICE DES PRIX À LA CONSOMMATION (IPC) - 2020M002EC”, https://www.cnis.fr/enquetes/indice-des-prix-a-la-consommation-ipc-2020m002ec/, consulté le 25/01/2020&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;L’Institut national de la statistique et des études économiques&lt;/em&gt;, “Indice des prix à la consommation IPC”, https://www.insee.fr/fr/metadonnees/source/indicateur/p1653/description, consulté de 25/01/2020&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Y. LAURENT</name><email>yann.laurent@pm.me</email></author><summary type="html">Comparer des variation d’indices ne revient pas à comparer des prix, mais des variations de prix :</summary></entry><entry><title type="html">Profession économiste sur France Culture “À la recherche du juste impôt avec Stéfanie Stantcheva”</title><link href="http://localhost:4000/podcasts/pro-eco/" rel="alternate" type="text/html" title="Profession économiste sur France Culture &quot;À la recherche du juste impôt avec Stéfanie Stantcheva&quot;" /><published>2020-01-01T22:36:00+01:00</published><updated>2020-01-01T22:36:00+01:00</updated><id>http://localhost:4000/podcasts/pro-eco</id><content type="html" xml:base="http://localhost:4000/podcasts/pro-eco/">&lt;p&gt;Rien de tel qu’un podcast pour découvrir le &lt;em&gt;Regard croisé&lt;/em&gt; de sociologie et d’économie de Terminale : “1.1 Comment les pouvoirs publics peuvent-ils contribuer à la justice sociale ?P”.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Y. LAURENT</name><email>yann.laurent@pm.me</email></author><summary type="html">L’IPC (Indice des prix à la consommation)1 soulève beaucoup de questions en classe, en particulier le fameux panier de biens qui permet de le calculer : comment est-il composé ? Comment choisit-on les biens qui le constitue ? Questions d’autant plus légitimes que l’on explique aux élèves que le taux d’inflation2 est centrale dans le pilotage économique de la BCE3, et pour la mise en place des politiques macroéconomiques. L’IPC est un indice de Laspeyres chaîné annuellement, avec pour base intermédiaire le mois de décembre de l’année précéden, ex. : $I_{sept. 97} , \text{base 100 en 90} = I_{sept. 97} , \text{base 100 en déc. 96} \times I_{dec. 96}, \text{base 100 en 1990}$, etc. &amp;#8617; Souvent désigné par πc (core inflation) c’est à dire inflation sous-jacente. C’est l’inflation de long terme (inflation globale des prix hors alimentation et énergie, Robert J. Gordon, 1975 et Otto Eckstein, 1981) &amp;#8617; Voir les détails ici https://www.cnis.fr/enquetes/indice-des-prix-a-la-consommation-ipc-2020m002ec/ &amp;#8617;</summary></entry><entry><title type="html">Profession économiste sur France Culture “À la recherche du juste impôt avec Stéfanie Stantcheva”</title><link href="http://localhost:4000/podcasts/pro-eco/" rel="alternate" type="text/html" title="Profession économiste sur France Culture &quot;À la recherche du juste impôt avec Stéfanie Stantcheva&quot;" /><published>2020-01-01T22:36:00+01:00</published><updated>2020-01-01T22:36:00+01:00</updated><id>http://localhost:4000/podcasts/pro-eco</id><content type="html" xml:base="http://localhost:4000/podcasts/pro-eco/">&lt;p&gt;Rien de tel qu’un podcast pour découvrir le &lt;em&gt;Regard croisé&lt;/em&gt; de sociologie et d’économie de Terminale : “1.1 Comment les pouvoirs publics peuvent-ils contribuer à la justice sociale ?P”.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Quelle est au juste la vocation des penseurs de l’économie ? Comment la discipline évolue-t-elle entre équations mathématiques et méthodes empiriques ? Et à quoi sert la recherche sur la création et la répartition des richesses ? Notre invitée du jour a reçu le prix du Meilleur Jeune Économiste de France et le magazine The Economist l’a classée parmi les huit meilleurs chercheurs en économie de la planète.””&lt;/p&gt;
