@@ -132,6 +132,14 @@ plugins:
   - jemoji
   - jekyll/footnotes
   - jekyll-analytics
+  - jekyll-mathjax-csp
+
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+
+
 remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin: "dark"
 
