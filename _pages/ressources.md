@@ -8,19 +8,34 @@ permalink: /ressources/
 
 ![liens](https://ya7yal.github.io/assets/atari.jpg)
 
-* *Entendez-vous l'éco ?* Par Maylis Besserie
->"Pour la première fois, une émission quotidienne des savoirs consacrée à l’économie et au social."
+![image-title-here](https://cdn.radiofrance.fr/s3/cruiser-production/2018/10/365a6329-a869-4321-be73-1a1475a1b038/838_entendez_vous_l_eco.jpg){:style="float: left;margin-right: 7px;margin-top: 7px; width:35%"}
+
+_**Entendez-vous l'éco ?**_ Par Maylis Besserie
+>"Une émission quotidienne des savoirs consacrée à l’économie et au social."
 [S'abonner au podcast](https://podcasts.apple.com/fr/podcast/entendez-vous-léco/id300710113)
 
-* *Comprendre le monde* Par Pascal Boniface
->"Pascal Boniface est Directeur de l’Institut de relations internationales et stratégiques (IRIS). L'émission "Comprendre le monde" (...) décrypte chaque semaine, à travers un entretien ou un débat, un thème géopolitique. Animée par un souci de pédagogie, elle permet de resituer l'actualité immédiate, en toute liberté, dans une perspective globale et de long terme."
+-------
+
+![image-title-here](http://www.pascalboniface.com/wp-content/uploads/2018/03/v-064A2464.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;  7px;margin-bottom: 7px; width:35%"}
+
+_**Comprendre le monde**_ Par Pascal Boniface
+>"L'émission "Comprendre le monde" (...) décrypte chaque semaine, à travers un entretien ou un débat, un thème géopolitique."
 [S'abonner au podcast](https://podcasts.apple.com/nz/podcast/comprendre-le-monde/id1281935791)
 
-* _LSD : la série documentaire_ Par Perrine Kervran
->"Documenter toutes les expériences de la vie, des cultures et des savoirs. Chaque semaine, un grand thème en quatre épisodes, autonomes et complémentaires."
+-------
+
+![image-title-here](https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/56220fd0-d13e-4cb8-95e3-0f971dd0f06e/838_franceculture_10177_lsd_la_srrie_documentaire.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;  7px;margin-bottom: 7px; width:35%"}
+
+**_LSD : la série documentaire_** Par Perrine Kervran
+
+>"Documenter toutes les expériences de la vie, des cultures et des savoirs."
 [S'abonner au podcast](https://podcasts.apple.com/fr/podcast/lsd-la-série-documentaire/id390167127)
 
-* *Spla$h, le podcast qui éclabousse*
+-------
+
+![image-title-here](https://content.production.cdn.art19.com/images/2c/35/d6/35/2c35d635-3e00-4dbc-af0f-434b5eaf895b/12abc00c59522471ebcb8bf4aedae43ed7eacd1c342a67253ef561da593b0f351d6123118a545e7436b14d4c53a03dcf5bfe85ba00728192ccbfe4660d565c6a.jpeg){:style="float: left;margin-right: 7px;margin-top: 7px;  7px;margin-bottom: 7px; width:35%"}
+
+_**Spla$h, le podcast qui éclabousse**_
 >"Étienne Tabbagh dénoue avec sa collègue Laureen Melka les questions les plus épineuses du débat public."
 [S'abonner au podcast](https://podcasts.apple.com/fr/podcast/splash/id1295839054?ls=1&mt=2)
 
