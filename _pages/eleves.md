@@ -20,7 +20,9 @@ permalink: /eleves/
 
 ### S'entraîner au bac
 
-A venir ...
+* **Onzic** est une plateforme musicale pour apprendre les cours en rap. ![Certaines chansons sont gratuites, pour les autres c'est un abonnement : telecharger l'app](https://www.onzic.com)
+
+* **Khan acadamy** est une organisation à but non lucratif qui se donne comme mission de fournir un enseignement gratuit et de qualité pour tout le monde, partout, via une app. Par ailleurs, elles est multilingue (à configurer sur l'app). ![100% gratuit.](https://fr.khanacademy.org/signup)
 
 ---
 
@@ -31,7 +33,7 @@ A venir ...
 
 #### SES
 
-* Le manuel Nathan 2018, [Google drive/nathan 2018](https://drive.google.com/open?id=1Ltk9BLmr4-nTN1FI16sPpODmcMwXF1RD)
+* Le manuel **Nathan SES 2018**. [Google drive/nathan 2018](https://drive.google.com/open?id=1Ltk9BLmr4-nTN1FI16sPpODmcMwXF1RD)
 
 #### Lectures complémentaires
 

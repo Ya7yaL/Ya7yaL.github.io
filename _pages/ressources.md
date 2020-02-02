@@ -16,6 +16,14 @@ permalink: /ressources/
 >"Pascal Boniface est Directeur de l’Institut de relations internationales et stratégiques (IRIS). L'émission "Comprendre le monde" (...) décrypte chaque semaine, à travers un entretien ou un débat, un thème géopolitique. Animée par un souci de pédagogie, elle permet de resituer l'actualité immédiate, en toute liberté, dans une perspective globale et de long terme."
 [S'abonner au podcast](https://podcasts.apple.com/nz/podcast/comprendre-le-monde/id1281935791)
 
+* _LSD : la série documentaire_ Par Perrine Kervran
+>"Documenter toutes les expériences de la vie, des cultures et des savoirs. Chaque semaine, un grand thème en quatre épisodes, autonomes et complémentaires."
+[S'abonner au podcast](https://podcasts.apple.com/fr/podcast/lsd-la-série-documentaire/id390167127)
+
+* *Spla$h, le podcast qui éclabousse*
+>"Étienne Tabbagh dénoue avec sa collègue Laureen Melka les questions les plus épineuses du débat public."
+[S'abonner au podcast](https://podcasts.apple.com/fr/podcast/splash/id1295839054?ls=1&mt=2)
+
 ## Lire
 
 ![livres](https://ya7yal.github.io/assets/livres.jpg)
