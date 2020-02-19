@@ -39,22 +39,6 @@ _**Spla$h, le podcast qui éclabousse**_
 >"Étienne Tabbagh dénoue avec sa collègue Laureen Melka les questions les plus épineuses du débat public."
 [S'abonner au podcast](https://podcasts.apple.com/fr/podcast/splash/id1295839054?ls=1&mt=2)
 
-## Lire
-
-![livres](https://ya7yal.github.io/assets/livres.jpg)
-
-* La vie des idées
->"Sa vocation est de proposer une information de qualité (...) sous la forme d’essais approfondis, d’interviews et de discussions publiques."
-[Site](https://laviedesidees.fr)
-
-* Le Réseau du savoir électoral ACE
->"Le Réseau du savoir électoral ACE est (...) la plus grande communauté en ligne du monde qui s’intéressent aux connaissances électorales."
-[Site](https://aceproject.org)
-
-* Les classiques de sciences sociales
->"La mission de la bibliothèque est de donner accès gratuitement aux œuvres en sciences sociales et humaines de langue française."
-[Site](http://classiques.uqac.ca)
-
 ## Regarder
 
 ![caméra](https://ya7yal.github.io/assets/video.jpg)
