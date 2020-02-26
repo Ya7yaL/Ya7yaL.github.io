@@ -50,6 +50,7 @@ comments:
 
 # Analytics
 jekyll_analytics:
+  provider: "google"
   Google:
     id: UA-155996088-1
     anonymizeIp: true # default
