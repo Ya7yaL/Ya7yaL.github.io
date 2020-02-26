@@ -49,11 +49,11 @@ comments:
     issue_term: "pathname"
 
 # Analytics
-jekyll_analytics:
-  provider: "google-universal"
-  Google:
-    id: "UA-155996088-1"
-    anonymizeIp: true # default
+analytics:
+  provider               : "google-universal"
+  google:
+    tracking_id          : "UA-155996088-1"
+    anonymize_ip         : true
 
 # Site Author
 author:
