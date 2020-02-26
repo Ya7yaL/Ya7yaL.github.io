@@ -23,7 +23,7 @@ description: &description "Blog d'un prof de SES. “It is better to be roughly 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Ya7yaL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "Ya7yaL/Ya7yaL.github.io"
-twitter_username: ???
+twitter_username: ylcorniquet
 github_username:  "Ya7ya"
 logo: "assets/logo_a.png"
 breadcrumbs: true
@@ -203,3 +203,10 @@ exclude:
 # pages
 
 include: ["_pages"]
+
+comments:
+  provider: "facebook"
+  facebook:
+    appid: 466840033890778
+    num_posts: 5
+    colorscheme: "dark"

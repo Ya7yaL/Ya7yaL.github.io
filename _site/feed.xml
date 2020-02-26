@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-02T22:30:48+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog de Y LAURENT</title><subtitle>Blog d'un prof de SES. “It is better to be roughly right than precisely wrong.” ― John Maynard Keynes</subtitle><author><name>Y. LAURENT</name><email>yann.laurent@pm.me</email></author><entry><title type="html">Que contient le panier de l’INSEE?</title><link href="http://localhost:4000/notions/ipc/" rel="alternate" type="text/html" title="Que contient le panier de l'INSEE?" /><published>2020-01-25T13:35:00+01:00</published><updated>2020-01-25T13:35:00+01:00</updated><id>http://localhost:4000/notions/ipc</id><content type="html" xml:base="http://localhost:4000/notions/ipc/">&lt;p&gt;L’IPC (Indice des prix à la consommation)&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; soulève beaucoup de questions en classe, en particulier le fameux &lt;em&gt;panier de biens&lt;/em&gt; qui permet de le calculer : comment est-il composé ? Comment choisit-on les biens qui le constitue ? Questions d’autant plus légitimes que l’on explique aux élèves que le taux d’inflation&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; est centrale dans le pilotage économique de la BCE&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, et pour la mise en place des politiques macroéconomiques.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-26T22:51:12+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog de Y LAURENT</title><subtitle>Blog d'un prof de SES. “It is better to be roughly right than precisely wrong.” ― John Maynard Keynes</subtitle><author><name>Y. LAURENT</name><email>yann.laurent@pm.me</email></author><entry><title type="html">Débats sur la réforme des retraites (vidéos)</title><link href="http://localhost:4000/videos/conf_ehess/" rel="alternate" type="text/html" title=" Débats sur la réforme des retraites (vidéos)" /><published>2020-02-26T06:35:00+01:00</published><updated>2020-02-26T06:35:00+01:00</updated><id>http://localhost:4000/videos/conf_ehess</id><content type="html" xml:base="http://localhost:4000/videos/conf_ehess/">&lt;p&gt;&lt;a href=&quot;https://www.ehess.fr/&quot;&gt;EHESS&lt;/a&gt; Paris, en partenariat avec l’&lt;a href=&quot;https://www.ined.fr&quot;&gt;INED&lt;/a&gt; et la revue &lt;a href=&quot;https://en3s.fr/recherche-et-publications/revue-regards/&quot;&gt;Regards&lt;/a&gt; a organisé, lundi 24 février 2020, un cyle de conférence sur la réforme des retraites. Le programme :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Depuis le début du mois de décembre 2019, la France connaît un fort mouvement social en opposition à la réforme des retraites dévoilée par le gouvernement. Au-delà d’une lecture strictement comptable de ce droit social fondamental, cette mobilisation questionne la solidarité entre les générations, les transformations du capitalisme, l’activité professionnelle, les vulnérabilités sociales et médicales, les inégalités ou encore les enjeux démographiques…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Chaque vidéo son thème :&lt;/p&gt;
+
+&lt;p&gt;#1 Comprendre la réforme des retraites&lt;/p&gt;
+&lt;figure class=&quot;video_container&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/WH_2s-rvpns&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;#2 Toutes et tous égaux devant le travail ?&lt;/p&gt;
+&lt;figure class=&quot;video_container&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/PRE9ExAZgDk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;#3 Que faire de nos vieux ?&lt;/p&gt;
+&lt;figure class=&quot;video_container&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OqKHrSuLSwE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;#4 Réforme d’experts, mobilisations populaires&lt;/p&gt;
+&lt;figure class=&quot;video_container&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CnW5ta3CPU4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Animée par Pierre Jacquemain (Regards).&lt;/p&gt;
+
+&lt;p&gt;Avec :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sabine Montagne, économiste (Paris-Dauphine)&lt;/li&gt;
+  &lt;li&gt;Camille Peugny, sociologue (Université de Versailles Saint-Quentin-en-Yvelines)&lt;/li&gt;
+  &lt;li&gt;Thomas Piketty, économiste (EHESS)&lt;/li&gt;
+  &lt;li&gt;Carole Bonnet, économiste (Ined)&lt;/li&gt;
+  &lt;li&gt;Antoine Bozio, économiste (EHESS)&lt;/li&gt;
+  &lt;li&gt;Dominique Meurs, économiste (Ined)&lt;/li&gt;
+  &lt;li&gt;Christophe Capuano, historien (Lyon 2)&lt;/li&gt;
+  &lt;li&gt;Jean-Claude Henrard, médecin honoraire des Hôpitaux de Paris et professeur émérite de santé publique&lt;/li&gt;
+  &lt;li&gt;Daniel Verger, responsable du pôle Études-Recherches-Opinion au Secours Catholique&lt;/li&gt;
+  &lt;li&gt;Ludivine Bantigny, historienne (Université de Rouen)&lt;/li&gt;
+  &lt;li&gt;Marie-Claire Cailletaud, syndicaliste (CGT)&lt;/li&gt;
+  &lt;li&gt;Anne-Marie Guillemard, sociologue (Université de Paris / CEMS-EHESS)&lt;/li&gt;
+  &lt;li&gt;Boris Vallaud, député (Parti socialiste)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Y. LAURENT</name><email>yann.laurent@pm.me</email></author><summary type="html">EHESS Paris, en partenariat avec l’INED et la revue Regards a organisé, lundi 24 février 2020, un cyle de conférence sur la réforme des retraites. Le programme :</summary></entry><entry><title type="html">Que contient le panier de l’INSEE?</title><link href="http://localhost:4000/notions/ipc/" rel="alternate" type="text/html" title="Que contient le panier de l'INSEE?" /><published>2020-01-25T13:35:00+01:00</published><updated>2020-01-25T13:35:00+01:00</updated><id>http://localhost:4000/notions/ipc</id><content type="html" xml:base="http://localhost:4000/notions/ipc/">&lt;p&gt;L’IPC (Indice des prix à la consommation)&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; soulève beaucoup de questions en classe, en particulier le fameux &lt;em&gt;panier de biens&lt;/em&gt; qui permet de le calculer : comment est-il composé ? Comment choisit-on les biens qui le constitue ? Questions d’autant plus légitimes que l’on explique aux élèves que le taux d’inflation&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; est centrale dans le pilotage économique de la BCE&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, et pour la mise en place des politiques macroéconomiques.&lt;/p&gt;
 
 &lt;h2 id=&quot;comment-est-composé-le-panier-en-france-&quot;&gt;Comment est composé le panier en France ?&lt;/h2&gt;
 
