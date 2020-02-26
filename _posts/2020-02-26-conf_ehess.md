@@ -2,7 +2,7 @@
 layout: single
 title:  "Cycle de débats sur la réforme des retraites à EHESS Paris"
 date:   2020-02-26 6:35:00 +0100
-categories: vidéo
+categories: videos
 ---
 
 [EHESS](https://www.ehess.fr/) Paris, en partenariat avec l'[INED](https://www.ined.fr) et la revue [Regards](https://en3s.fr/recherche-et-publications/revue-regards/) a organisé, lundi 24 février 2020, un cyle de conférence sur la réforme des retraites. Le programme :
