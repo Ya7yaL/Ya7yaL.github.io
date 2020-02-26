@@ -43,10 +43,18 @@ social:
 
 # Comments
 comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-dark"
-    issue_term: "pathname"
+  provider: "facebook"
+  facebook:
+    appid: 466840033890778
+    num_posts: 5
+    colorscheme: "dark"
+
+
+# comments:
+#  provider: "utterances"
+#  utterances:
+#    theme: "github-dark"
+#    issue_term: "pathname"
 
 # Analytics
 analytics:
@@ -204,10 +212,3 @@ exclude:
 # pages
 
 include: ["_pages"]
-
-#comments:
-#  provider: "facebook"
-#  facebook:
-#    appid: 466840033890778
-#    num_posts: 5
-#    colorscheme: "dark"
