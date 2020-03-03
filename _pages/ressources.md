@@ -45,8 +45,8 @@ _**Spla$h, le podcast qui éclabousse**_
 
 ### Documentaires
 
-<div class="video-responsive">
 * *La sociologie est un sport de combat*, de P. Carles **#métier #sociologue**
+<div class="video-responsive">
 <iframe width="320" height="180" src="https://www.youtube.com/embed/1fHwbBw32aM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
