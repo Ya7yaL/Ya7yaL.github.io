@@ -22,7 +22,7 @@ _**Sciences économiques et sociale**_
 
 ![image-title-here](https://cdn.radiofrance.fr/s3/cruiser-production/2018/10/365a6329-a869-4321-be73-1a1475a1b038/838_entendez_vous_l_eco.jpg){:style="float: left;margin-right: 7px;margin-top: 7px; width:35%"}
 
-_**Entendez-vous l'éco ?**_ Par Maylis Besserie
+_**Entendez-vous l'éco ?**_ Par M. Besserie
 >"Une émission quotidienne des savoirs consacrée à l’économie et au social."
 [S'abonner au podcast](https://podcasts.apple.com/fr/podcast/entendez-vous-léco/id300710113)
 
@@ -30,7 +30,7 @@ _**Entendez-vous l'éco ?**_ Par Maylis Besserie
 
 ![image-title-here](https://yt3.ggpht.com/a/AATXAJxyBR4jnaFQum4ccvALmRwkCxt99AqN29fy8Q=s900-c-k-c0xffffffff-no-rj-mo){:style="float: left;margin-right: 7px;margin-top: 7px;  7px;margin-bottom: 7px; width:35%"}
 
-_**Comprendre le monde**_ Par Pascal Boniface
+_**Comprendre le monde**_ Par P. Boniface
 >"(...) décrypte chaque semaine, à travers un entretien ou un débat, un thème géopolitique."
 [S'abonner au podcast](https://podcasts.apple.com/nz/podcast/comprendre-le-monde/id1281935791)
 
@@ -38,7 +38,7 @@ _**Comprendre le monde**_ Par Pascal Boniface
 
 ![image-title-here](https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/56220fd0-d13e-4cb8-95e3-0f971dd0f06e/838_franceculture_10177_lsd_la_srrie_documentaire.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;  7px;margin-bottom: 7px; width:35%"}
 
-**_LSD : la série documentaire_** Par Perrine Kervran
+_**LSD : la série documentaire**_ Par P. Kervran
 
 >"Documenter toutes les expériences de la vie, des cultures et des savoirs."
 [S'abonner au podcast](https://podcasts.apple.com/fr/podcast/lsd-la-série-documentaire/id390167127)
