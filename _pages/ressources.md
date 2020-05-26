@@ -22,7 +22,7 @@ _**Sciences économiques et sociale**_
 
 ![image-title-here](https://cdn.radiofrance.fr/s3/cruiser-production/2018/10/365a6329-a869-4321-be73-1a1475a1b038/838_entendez_vous_l_eco.jpg){:style="float: left;margin-right: 7px;margin-top: 7px; width:35%"}
 
-_**Entendez-vous l'éco ?**_ Par M. Besserie
+_**Entendez-vous l'éco ?**_ Par T. de Rocquigny
 >"Une émission quotidienne des savoirs consacrée à l’économie et au social."
 [S'abonner au podcast](https://podcasts.apple.com/fr/podcast/entendez-vous-léco/id300710113)
 
