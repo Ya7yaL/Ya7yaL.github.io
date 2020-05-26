@@ -4,6 +4,18 @@ title: Cultiver sa curiosité
 permalink: /ressources/
 ---
 
+## L'offre éducative gratuite de l'audiovisuel public : LUMNI
+
+[//]:![liens](https://www.lumni.fr/images/banner/sciences_economiques_et_sociales.jpg)
+
+![image-title-here](https://www.telerama.fr/sites/tr_master/files/styles/simplecrop455/public/lumni49_copie.jpg){:style="float: left;margin-right: 7px;margin-top: 7px; width:37%"}
+
+_**Sciences économiques et sociale**_
+
+>"Lumni est la nouvelle offre de l’audiovisuel public au service de l’éducation pour les élèves..." [Accéder au site](https://www.lumni.fr/lycee/terminale/sciences-economiques-et-sociales)
+
+<br/>
+
 ## Écouter
 
 ![liens](https://ya7yal.github.io/assets/atari.jpg)
@@ -16,10 +28,10 @@ _**Entendez-vous l'éco ?**_ Par Maylis Besserie
 
 -------
 
-![image-title-here](http://www.pascalboniface.com/wp-content/uploads/2018/03/v-064A2464.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;  7px;margin-bottom: 7px; width:35%"}
+![image-title-here](https://yt3.ggpht.com/a/AATXAJxyBR4jnaFQum4ccvALmRwkCxt99AqN29fy8Q=s900-c-k-c0xffffffff-no-rj-mo){:style="float: left;margin-right: 7px;margin-top: 7px;  7px;margin-bottom: 7px; width:35%"}
 
 _**Comprendre le monde**_ Par Pascal Boniface
->"L'émission "Comprendre le monde" (...) décrypte chaque semaine, à travers un entretien ou un débat, un thème géopolitique."
+>"(...) décrypte chaque semaine, à travers un entretien ou un débat, un thème géopolitique."
 [S'abonner au podcast](https://podcasts.apple.com/nz/podcast/comprendre-le-monde/id1281935791)
 
 -------
