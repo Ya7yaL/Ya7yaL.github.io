@@ -36,6 +36,14 @@ _**Comprendre le monde**_ Par P. Boniface
 
 -------
 
+![image-title-here](https://www.monde-diplomatique.fr/squelettes/images/podcast_890.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;  7px;margin-bottom: 7px; width:35%"}
+
+_**Le podcast du « Diplo »**_
+>"(...) Une émission en accès libre autour du numéro du mois."
+[S'abonner au podcast](https://www.monde-diplomatique.fr/podcast/)
+
+-------
+
 ![image-title-here](https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/56220fd0-d13e-4cb8-95e3-0f971dd0f06e/838_franceculture_10177_lsd_la_srrie_documentaire.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;  7px;margin-bottom: 7px; width:35%"}
 
 _**LSD : la série documentaire**_ Par P. Kervran

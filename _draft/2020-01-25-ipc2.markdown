@@ -1,0 +1,51 @@
+---
+layout: single
+title:  "Que contient le panier de l'INSEE?"
+date:   2020-01-25 13:35:00 +0100
+categories: notions
+---
+
+L'IPC (Indice des prix à la consommation)[^1] soulève beaucoup de questions en classe, en particulier le fameux _panier de biens_ qui permet de le calculer : comment est-il composé ? Comment choisit-on les biens qui le constitue ? Questions d'autant plus légitimes que l'on explique aux élèves que le taux d'inflation[^2] est centrale dans le pilotage économique de la BCE[^3], et pour la mise en place des politiques macroéconomiques.
+
+## Comment est composé le panier en France ?
+
+La collecte en France est effectuée de façon mensuelle par l'INSEE. Elle est formalisée sous forme de relevés, qui sont eux aussi mensuels. Les données qui composent la collecte sont issues d'enquêtes de terrain pour 50%, mais aussi d'enquêtes par courrier, de collectes des données privées issue des achats des consommateurs en caisse, des données issues du commerce en ligne, et aussi de certaines fournies par les admistrations publiques[^4].
+
+Elles sont organisées selon 3 critères :
+
+- Géographique : les relevés sont effectués dans 99 agglomérations de plus de 2 000 habitants dispersées sur le territoire français (on exclue donc les villages).
+
+- Produits : un échantillon d'un peu plus de 1100 familles de produits ("**variétés**") est défini pour tenir compte de l'hétérogénéité des produits. L'INSEE calcule alors un niveau de base qui servira au suivi des produits et à calculer l'indice. La liste des **variétés** reste confidentielle, et on ne connait jamais l'IPC à ce niveau.
+
+- Point de ventes : un échantillon de 30 000 points de vente (magasins etc.) doit représenter la diversité des produits et **modes d'achat** des consommateurs (de gré à gré, consultation restreinte, appel d'offre), et les différentes **formes de vente** possible (vente en magasin, sur marché, par correspondance, etc.).
+
+Une faible part des biens et services ne sont pas observés par l’indice : il s’agit principalement des services hospitaliers , de l’assurance vie et des jeux de hasard. Le taux de couverture de l’IPC est, d'après l'INSEE en 1998, de plus 90%.
+
+## Que fait-on de ce panier ?
+
+Le croisement de ces différents critères aboutit à ce que l'on nomme des **séries**, c'est à dire des produits précis dans un point de vente donné (200 000 séries au total). L'échantillon des **séries** est mis à jour annuellement pour tenir compte de l'évolution des comportements de consommation et, notamment, de l'introduction des produits nouveaux.
+
+Ces séries subissent des pondérations qui doivent rendre compte de la part des dépenses qu'elles représentent dans l'IPC. Elles sont issues pour la plupart des évaluations annuelles des dépenses de consommation des ménages réalisées par la **Comptabilité Nationale**. Des traitements spécifiques sont aussi effectués pour tenir compte des saisons, des transformations des produits, des périodes de promotions, etc.
+
+
+## Que se passe-t-il si le panier change ?
+
+L'INSEE a modifié à plusieurs reprises l'année de référence de l'IPC, l'année de référence actuelle (début 2020) étant 2015. Les raisons de ce changement sont par exemple d'inclure de nouveaux produits, ou des transformations dans la consommation, etc.
+
+Pour rappel, l'INSEE s'est abord basé sur _l’Indice des 34 articles_ créé en 1934 par la Statistique Générale de la France, et a continué à étendre le contenu du panier et les critères de collecte des données :
+
+[![six générations d'IPC en 1998](https://ya7yal.github.io/assets/posts/60_ipc.png) ](https://ya7yal.github.io/assets/posts/60_ipc.png)
+
+## Sources et notes
+
+[^1]: L'IPC est un indice de Laspeyres chaîné annuellement, avec pour base intermédiaire le mois de décembre de l’année précédente, ex. :  $I_{sept. 97} , \text{base 100 en 90} = I_{sept. 97} , \text{base 100 en déc. 96} \times I_{dec. 96}, \text{base 100 en 1990}$, etc.
+
+[^2]: Souvent désigné par πc (_core inflation_) c'est à dire inflation sous-jacente. C'est l'inflation de long terme (inflation globale des prix hors alimentation et énergie, Robert J. Gordon, 1975 et Otto Eckstein, 1981)
+
+[^3]: Voir les détails ici https://www.cnis.fr/enquetes/indice-des-prix-a-la-consommation-ipc-2020m002ec/
+
+[^4]: Les indices des prix à la consommation harmonisés (IPCH) sont les chiffres de l’inflation harmonisés demandés par l’article 121 du traité d’Amsterdam (109 J du traité sur l’Union européenne). Ils sont conçus pour permettre la comparaison internationale de l’évolution des prix à la consommation. Celui retenu par la BCE est l'IPCUM. : Article 140, paragraphe 1, premier tiret, du **traité sur le fonctionnement de l’Union européenne** sur La réalisation d’un degré élevé de stabilité des prix, Article premier du **Protocole (n° 13) sur les critères de convergence (2012)** visé à l’article 140, paragraphe 1, du traité, sur les critères de **stabilité des prix** visé à l’article 140 sur le fonctionnement de l’Union européenne. Sources : https://www.ecb.europa.eu/ecb/orga/escb/html/convergence-criteria.fr.html, et "Indices des prix à la consommation harmonisés (IPCH) (Prix)" https://www.tarifdouanier.eu/info/abreviations/5682
+
+- _Conseil national de l’information statistique_ (CNIS), "INDICE DES PRIX À LA CONSOMMATION (IPC) - 2020M002EC", https://www.cnis.fr/enquetes/indice-des-prix-a-la-consommation-ipc-2020m002ec/, consulté le 25/01/2020
+- _L'Institut national de la statistique et des études économiques_, "Indice des prix à la consommation IPC", https://www.insee.fr/fr/metadonnees/source/indicateur/p1653/description, consulté de 25/01/2020
+- _L'Institut national de la statistique et des études économique_, "Pour comprendre l'indice des prix - Édition 1998", https://www.insee.fr/fr/metadonnees/source/fichier/Indice_des_prix.pdf, consulté le 26/01/2020.
